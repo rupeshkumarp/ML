@@ -13,10 +13,7 @@ ML/
 │   └── data/
 ├── ensemble/               # Bagging, boosting, majority voting
 │   └── data/
-├── model evaluation/       # Cross-validation, ROC-AUC
-├── categorical_LR.ipynb    # Linear regression with categorical features
-├── naive_bayes.ipynb       # Naive Bayes (standalone)
-└── regularization.ipynb    # Regularization (standalone)
+└── model evaluation/       # Cross-validation, ROC-AUC
 ```
 
 ## Contents
