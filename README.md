@@ -27,7 +27,6 @@ This repository contains [notebooks / scripts / small projects] exploring core m
 ```bash
 git clone https://github.com/rupeshkumarp/ML.git
 cd ML
-pip install -r requirements.txt
 jupyter notebook
 ```
 
